@@ -1,5 +1,5 @@
-Copyright 2015, Mike Bostock
-All rights reserved.
+// Copyright 2015, Mike Bostock
+// All rights reserved.
 
 d3.sankey = function() {
   var sankey = {},
