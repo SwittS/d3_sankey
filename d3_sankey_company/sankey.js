@@ -1,6 +1,3 @@
-// Copyright 2015, Mike Bostock
-// All rights reserved.
-
 d3.sankey = function() {
   var sankey = {},
     nodeWidth = 24,
@@ -300,3 +297,6 @@ d3.sankey = function() {
 
   return sankey;
 };
+
+// Copyright 2015, Mike Bostock
+// All rights reserved.

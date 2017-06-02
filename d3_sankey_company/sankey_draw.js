@@ -1,6 +1,3 @@
-// Copyright 2015, Mike Bostock
-// All rights reserved.
-
 var margin = {
     top: 5,
     right: 700,
@@ -181,3 +178,6 @@ function highlight_node_links(node, i) {
 function highlight_link(id, opacity) {
   d3.select("#link-" + id).style("stroke-opacity", opacity);
 }
+
+// Copyright 2015, Mike Bostock
+// All rights reserved.
